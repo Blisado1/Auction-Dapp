@@ -1,2 +1,2 @@
-# Auction-Dapp
-Auction application built on the Celo Blockchain
+# Celo Tutorial
+Tutorial on Celo Development a Dacade Bounty Course
